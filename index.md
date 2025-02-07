@@ -5,3 +5,7 @@
 ```SQL
 DROP TABLE test;
 ```
+
+- [ ] learn sql
+- [x] learn html
+- [ ] learn markdown
